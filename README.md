@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0240-search-a-2d-matrix-ii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
