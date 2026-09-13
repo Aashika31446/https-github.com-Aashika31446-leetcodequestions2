@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0835-image-overlap) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
