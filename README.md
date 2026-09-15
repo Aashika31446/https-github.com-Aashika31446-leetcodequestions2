@@ -38,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
 |  |
