@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0002-add-two-numbers) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Hash Table
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0002-add-two-numbers) |
 | [0836-rectangle-overlap](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0002-add-two-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
