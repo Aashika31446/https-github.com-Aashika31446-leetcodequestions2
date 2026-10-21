@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
