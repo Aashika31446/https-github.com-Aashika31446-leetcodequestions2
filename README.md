@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0240-search-a-2d-matrix-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0002-add-two-numbers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aashika31446/https-github.com-Aashika31446-leetcodequestions2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
